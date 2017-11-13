@@ -10,9 +10,9 @@
                           // pull the pin to ground momentarily.  On a high -> low
                           // transition the button press logic will execute.
 
-#define PIXEL_PIN    6    // Digital IO pin connected to the NeoPixels.
+#define PIXEL_PIN    15    // Digital IO pin connected to the NeoPixels.
 
-#define PIXEL_COUNT 16
+#define PIXEL_COUNT 5
 
 // Parameter 1 = number of pixels in strip,  neopixel stick has 8
 // Parameter 2 = pin number (most are valid)
