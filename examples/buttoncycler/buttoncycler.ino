@@ -5,7 +5,7 @@
 
 #include <Adafruit_NeoPixel.h>
 
-#define BUTTON_PIN   16    // Digital IO pin connected to the button.  This will be
+#define BUTTON_PIN   19    // Digital IO pin connected to the button.  This will be
                           // driven with a pull-up resistor so the switch should
                           // pull the pin to ground momentarily.  On a high -> low
                           // transition the button press logic will execute.
